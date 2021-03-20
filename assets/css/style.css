@@ -77,17 +77,18 @@ content {
     background-color: #0072bb;
     color: #ffffff;
     overflow: auto;
-
 }
 
-.photo-left {
+.services img {
     float: left;
     margin-right: 25px;
+    max-height: 35%;
 }
 
 .photo-right {
     float: right;
     margin-left: 25px;
+    max-height: 35%;
 }
 
 .services {
