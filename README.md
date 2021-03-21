@@ -12,4 +12,4 @@ Project is creted with:
 ## Link for Deployment
 https://artistsandart.github.io/horiseon/
 
-https://github.com/artistsandart/horiseon/blob/667a4c4d690c4785227185cb2f8f39bf85362215/assets/images/horiseon_screenshot.jpg
+![Screenshot of Horiseon site deployed](./assets/images/horiseon-screenshot.jpg "Horsiseon Screenshot")
